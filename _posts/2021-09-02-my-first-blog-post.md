@@ -1,5 +1,7 @@
 ---
-title: "Your blog post title"
+title: "Welcome to my blog"
+date: 2019-01-20
 ---
+
 
 tämmönen blogi
