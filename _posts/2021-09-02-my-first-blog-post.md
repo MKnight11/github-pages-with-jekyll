@@ -1,2 +1,5 @@
-title: jekyll ja Hide
+---
+title: "Your blog post title"
+---
+
 tämmönen blogi
